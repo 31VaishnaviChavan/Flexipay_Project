@@ -9,7 +9,6 @@
 - **Selenium WebDriver** – for browser automation
 - **TestNG** – for writing and managing test cases
 - **JIRA** – for defect tracking and reporting
-- **Postman** – for API testing
 - **Java** – for test script implementation
 - **STLC/SDLC** methodologies
 
