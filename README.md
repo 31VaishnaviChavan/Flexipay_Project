@@ -19,7 +19,6 @@
 - 📄 Designed and executed **manual test cases** to cover functional scenarios for payment and EMI workflows.
 - 🤖 Automated **critical test flows** using Selenium WebDriver and TestNG, improving test coverage by **40%**.
 - 🧪 Performed **black box**, **white box**, and **regression testing**, resolving **95% of defects** reported during testing cycles.
-- 🔍 Used **Postman** to validate API responses for payment gateway integrations.
 - 🐞 Logged, tracked, and reported bugs using **JIRA**, ensuring timely resolution and effective communication with the development team.
 - 🔁 Followed **Agile** processes, participated in sprint meetings, and coordinated closely with cross-functional teams.
 
